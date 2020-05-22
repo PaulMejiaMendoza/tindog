@@ -1,5 +1,5 @@
 # tindog
-meet new and insteresting dogs nearby
+meet new and insteresting dogs nearby!!
 
 ![tindog1](https://user-images.githubusercontent.com/54085516/82709558-25603e00-9c81-11ea-8b67-783abb107e3e.png)
 ![tindog2](https://user-images.githubusercontent.com/54085516/82709563-285b2e80-9c81-11ea-8e65-86dd75464304.png)
